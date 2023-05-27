@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iamumarjaved
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 Currently Working on Full-Stack Web Development
+🤝 I’m looking for help with Innovative Solutions and Ideas
+🌱 I’m currently learning AI, ML
+💬 Ask me about Web development
+⚡ Fun fact - I avoid Maths ;)
 
 <!---
 iamumarjaved/iamumarjaved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
