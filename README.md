@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working on Full-Stack Web Development<br>🤝 I’m looking for help with Innovative Solutions and Ideas<br>🌱 I’m currently learning AI, ML<br>💬 Ask me about Web development<br>⚡ Fun fact - I avoid Maths ;)
+🔭 Currently Working on Full-Stack Web Development<br>🤝 I’m looking for help with Innovative Solutions and Ideas<br>🌱 I’m currently learning AI, ML<br>💬 Ask me about Web development
 
 
 ## 🌐 Socials:
