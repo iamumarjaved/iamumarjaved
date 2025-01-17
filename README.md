@@ -8,6 +8,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/infotech21) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umar.javed.92mian/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-javed-1505ab222/) 
+[![](https://streak-stats.demolab.com/?user=iamumarjaved)](https://streak-stats.demolab.com?user=iamumarjaved&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun&hide_total_contributions=true)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
