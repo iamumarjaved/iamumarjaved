@@ -34,11 +34,9 @@
 ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamumarjaved&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamumarjaved&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
 [![](https://streak-stats.demolab.com/?user=iamumarjaved)](https://streak-stats.demolab.com?user=iamumarjaved&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun&hide_total_contributions=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamumarjaved&icon=0&color=0)](https://visitcount.itsvg.in)
